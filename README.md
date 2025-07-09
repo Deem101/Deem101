@@ -1,60 +1,48 @@
-# 👋 Hi, I'm Deem
+# 👋 Hi, I'm Kadeem Dyer — but you can call me Deem!
 
-I’m a self-taught programmer working toward my dream of living and coding in Italy 🇮🇹.  
-Passionate about building creative web apps, solving problems with code, and always learning something new.
+I’m a self-taught programmer from Trinidad & Tobago 🇹🇹, currently building my path toward living and working in Italy 🇮🇹.  
+My passion lies in turning ideas into real web applications that are clean, useful, and a little bit stylish too.
 
 ---
 
 ### 🚀 Current Focus
-- 🔧 Learning: **React**, **Node.js**, **Python**, and a little Italian 🇮🇹
-- 🛠️ Building: a First Aid Kit Inventory app (inspired by a real business idea!)
-- 📘 Studying: Full Stack Web Development & Clean Code practices
+- 🔧 Learning: **React**, **Node.js**, **Python**, and Italian 🇮🇹
+- 🛠️ Building: a First Aid Kit Inventory App inspired by my own business idea
+- 📘 Studying: Full Stack Development and Clean Code techniques
 
 ---
 
 ### 💻 Projects
 
 🌐 [Personal Portfolio Website](#)  
-A responsive website to showcase who I am, what I do, and what I love.
+A responsive site to showcase who I am and what I build.
 
 ☀️ [WeatherNow App](#)  
-Simple app that fetches live weather data using an open API and React.
+React app that pulls live weather data from a public API.
 
 📝 [To-Do List with Login](#)  
-Full-stack app using MERN stack, complete with user authentication.
+Full-stack CRUD app with user authentication using MERN stack.
 
 📚 [Mini Blog Platform](#)  
-Built with Django + SQLite for lightweight blogging.
+Blog system with Django, SQLite, and a simple admin dashboard.
 
 🧰 [First Aid Kit Inventory](#)  
-Track and manage items in a first aid kit—great for home, travel, or business use.
+Track and manage supplies—ideal for home, travel, or small business kits.
 
 ---
 
 ### 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/yourname](#)
-- Email: your.email@example.com
-- GitHub: [github.com/yourusername](#)
+- 🌍 LinkedIn: [linkedin.com/in/kadeemdyer](#)
+- https://www.linkedin.com/in/kadeem-dyer 
+- 📧 Email: kadeemdyer16@gmail.com & kadeemdyer170@gmail.com
+- 🐙 GitHub: [github.com/Deem101](https://github.com/Deem101)
 
 ---
 
 ### 🌱 Fun Fact
-> I'm learning Italian, one line of code and one espresso at a time ☕🇮🇹
+> I’m learning Italian, one line of code and one espresso at a time ☕🇮🇹
 
-Grazie for visiting my profile!
+Thanks for stopping by my GitHub!
 
-<!--
-**Deem101/Deem101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ciao!

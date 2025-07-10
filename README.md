@@ -33,7 +33,7 @@ Track and manage supplies—ideal for home, travel, or small business kits.
 
 ### 📫 Connect with Me
 
-- 🌍 LinkedIn: [linkedin.com/in/kadeemdyer]
+- 🌍 LinkedIn: www.linkedin.com/in/kadeem-dyer-2b20b6263
 - 📧 Email: kadeemdyer16@gmail.com & kadeemdyer170@gmail.com
 - 🐙 GitHub: [github.com/Deem101](https://github.com/Deem101)
 
